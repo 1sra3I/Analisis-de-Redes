@@ -20,6 +20,11 @@ Especto de red:
 
 <img width="665" height="390" alt="image" src="https://github.com/user-attachments/assets/e9f8f571-3517-402c-94cb-6a4d46afd36d" />
 
+Mapeo y como se distribuye la red, zonas:
+
+<img width="390" height="500" alt="image" src="https://github.com/user-attachments/assets/a6484f59-ac9b-4d71-8f52-00ae2cf9352a" />
+
+
 Dificultades:
 
 Analizar de manera correcta el espectro de red
